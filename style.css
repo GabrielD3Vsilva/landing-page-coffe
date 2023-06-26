@@ -6,7 +6,7 @@ body {
 }
 
 .bg-1 {
-    height: 70vh;
+    height: 100vh;
     background: url("images/home-img.jpeg") no-repeat center;
     background-size: cover;
 }
